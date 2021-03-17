@@ -40,4 +40,5 @@ captures/
 *.jks
 
 .externalNativeBuild
+
 .DS_Store
