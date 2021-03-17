@@ -42,7 +42,7 @@ rule CXX_SHARED_LIBRARY_LINKER__native-lib
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /Users/yilintsai/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake -H/Users/yilintsai/Desktop/feature-matching-native/app/src/main/cpp -B/Users/yilintsai/Desktop/feature-matching-native/app/.cxx/cmake/release/armeabi-v7a
+  command = /Users/yilintsai/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake -H/Users/yilintsai/Desktop/GitHub/my-github/feature-matching-native/app/src/main/cpp -B/Users/yilintsai/Desktop/GitHub/my-github/feature-matching-native/app/.cxx/cmake/release/armeabi-v7a
   description = Re-running CMake...
   generator = 1
 

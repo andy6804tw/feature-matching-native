@@ -5,9 +5,9 @@
     "environmentVariables": []
   },
   "cmake": {
-    "cmakeArtifactsBaseFolder": "/Users/yilintsai/Desktop/feature-matching-native/app/.cxx/cmake/debug/armeabi-v7a",
-    "cmakeServerLogFile": "/Users/yilintsai/Desktop/feature-matching-native/app/.cxx/cmake/debug/armeabi-v7a/cmake_server_log.txt",
-    "cmakeWrappingBaseFolder": "/Users/yilintsai/Desktop/feature-matching-native/app/.cxx/cxx/debug/armeabi-v7a",
+    "cmakeArtifactsBaseFolder": "/Users/yilintsai/Desktop/GitHub/my-github/feature-matching-native/app/.cxx/cmake/debug/armeabi-v7a",
+    "cmakeServerLogFile": "/Users/yilintsai/Desktop/GitHub/my-github/feature-matching-native/app/.cxx/cmake/debug/armeabi-v7a/cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "/Users/yilintsai/Desktop/GitHub/my-github/feature-matching-native/app/.cxx/cxx/debug/armeabi-v7a",
     "effectiveConfiguration": {
       "name": "traditional-android-studio-cmake-environment",
       "description": "Composite reified CMakeSettings configuration",
@@ -15,7 +15,7 @@
       "inheritEnvironments": [
         "ndk"
       ],
-      "buildRoot": "/Users/yilintsai/Desktop/feature-matching-native/app/.cxx/cmake/debug/armeabi-v7a",
+      "buildRoot": "/Users/yilintsai/Desktop/GitHub/my-github/feature-matching-native/app/.cxx/cmake/debug/armeabi-v7a",
       "cmakeToolchain": "/Users/yilintsai/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
       "cmakeExecutable": "/Users/yilintsai/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
       "variables": [
@@ -25,7 +25,7 @@
         },
         {
           "name": "CMAKE_FIND_ROOT_PATH",
-          "value": "/Users/yilintsai/Desktop/feature-matching-native/app/.cxx/cmake/debug/prefab/armeabi-v7a/prefab"
+          "value": "/Users/yilintsai/Desktop/GitHub/my-github/feature-matching-native/app/.cxx/cmake/debug/prefab/armeabi-v7a/prefab"
         },
         {
           "name": "CMAKE_BUILD_TYPE",
@@ -61,7 +61,7 @@
         },
         {
           "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
-          "value": "/Users/yilintsai/Desktop/feature-matching-native/app/build/intermediates/cmake/debug/obj/armeabi-v7a"
+          "value": "/Users/yilintsai/Desktop/GitHub/my-github/feature-matching-native/app/build/intermediates/cmake/debug/obj/armeabi-v7a"
         },
         {
           "name": "CMAKE_MAKE_PROGRAM",
@@ -78,14 +78,14 @@
       ]
     }
   },
-  "cxxBuildFolder": "/Users/yilintsai/Desktop/feature-matching-native/app/.cxx/cmake/debug/armeabi-v7a",
+  "cxxBuildFolder": "/Users/yilintsai/Desktop/GitHub/my-github/feature-matching-native/app/.cxx/cmake/debug/armeabi-v7a",
   "info": {
     "abi": "ARMEABI_V7A",
     "bitness": 32,
     "deprecated": false,
     "default": true
   },
-  "originalCxxBuildFolder": "/Users/yilintsai/Desktop/feature-matching-native/app/.cxx/cmake/debug/armeabi-v7a",
+  "originalCxxBuildFolder": "/Users/yilintsai/Desktop/GitHub/my-github/feature-matching-native/app/.cxx/cmake/debug/armeabi-v7a",
   "variant": {
     "buildSystemArgumentList": [],
     "buildTargetSet": [],
@@ -104,12 +104,12 @@
         "ninjaExe": "/Users/yilintsai/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
       },
       "cmakeToolchainFile": "/Users/yilintsai/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
-      "cxxFolder": "/Users/yilintsai/Desktop/feature-matching-native/app/.cxx",
+      "cxxFolder": "/Users/yilintsai/Desktop/GitHub/my-github/feature-matching-native/app/.cxx",
       "gradleModulePathName": ":app",
-      "intermediatesFolder": "/Users/yilintsai/Desktop/feature-matching-native/app/build/intermediates",
-      "makeFile": "/Users/yilintsai/Desktop/feature-matching-native/app/src/main/cpp/CMakeLists.txt",
-      "moduleBuildFile": "/Users/yilintsai/Desktop/feature-matching-native/app/build.gradle",
-      "moduleRootFolder": "/Users/yilintsai/Desktop/feature-matching-native/app",
+      "intermediatesFolder": "/Users/yilintsai/Desktop/GitHub/my-github/feature-matching-native/app/build/intermediates",
+      "makeFile": "/Users/yilintsai/Desktop/GitHub/my-github/feature-matching-native/app/src/main/cpp/CMakeLists.txt",
+      "moduleBuildFile": "/Users/yilintsai/Desktop/GitHub/my-github/feature-matching-native/app/build.gradle",
+      "moduleRootFolder": "/Users/yilintsai/Desktop/GitHub/my-github/feature-matching-native/app",
       "ndkDefaultAbiList": [
         "ARMEABI_V7A",
         "ARM64_V8A",
@@ -173,13 +173,13 @@
       "ndkDefaultStl": "LIBCXX_STATIC",
       "ndkVersion": "21.1.6352462",
       "project": {
-        "compilerSettingsCacheFolder": "/Users/yilintsai/Desktop/feature-matching-native/.cxx",
-        "cxxFolder": "/Users/yilintsai/Desktop/feature-matching-native/.cxx",
-        "ideBuildTargetAbi": "armeabi-v7a,armeabi",
+        "compilerSettingsCacheFolder": "/Users/yilintsai/Desktop/GitHub/my-github/feature-matching-native/.cxx",
+        "cxxFolder": "/Users/yilintsai/Desktop/GitHub/my-github/feature-matching-native/.cxx",
+        "ideBuildTargetAbi": "arm64-v8a,armeabi-v7a,armeabi",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
-        "rootBuildGradleFolder": "/Users/yilintsai/Desktop/feature-matching-native",
+        "rootBuildGradleFolder": "/Users/yilintsai/Desktop/GitHub/my-github/feature-matching-native",
         "sdkFolder": "/Users/yilintsai/Library/Android/sdk",
         "isPrefabEnabled": false
       },
@@ -196,13 +196,13 @@
         "SYSTEM": {}
       }
     },
-    "objFolder": "/Users/yilintsai/Desktop/feature-matching-native/app/build/intermediates/cmake/debug/obj",
+    "objFolder": "/Users/yilintsai/Desktop/GitHub/my-github/feature-matching-native/app/build/intermediates/cmake/debug/obj",
     "variantName": "debug",
     "validAbiList": [
       "ARMEABI_V7A"
     ],
-    "prefabDirectory": "/Users/yilintsai/Desktop/feature-matching-native/app/.cxx/cmake/debug/prefab",
+    "prefabDirectory": "/Users/yilintsai/Desktop/GitHub/my-github/feature-matching-native/app/.cxx/cmake/debug/prefab",
     "prefabPackageDirectoryList": []
   },
-  "prefabFolder": "/Users/yilintsai/Desktop/feature-matching-native/app/.cxx/cmake/debug/prefab/armeabi-v7a"
+  "prefabFolder": "/Users/yilintsai/Desktop/GitHub/my-github/feature-matching-native/app/.cxx/cmake/debug/prefab/armeabi-v7a"
 }

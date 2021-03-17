@@ -1,7 +1,7 @@
 Executable : /Users/yilintsai/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
 arguments : 
 -C
-/Users/yilintsai/Desktop/feature-matching-native/app/.cxx/cmake/debug/armeabi-v7a
+/Users/yilintsai/Desktop/GitHub/my-github/feature-matching-native/app/.cxx/cmake/debug/armeabi-v7a
 native-lib
 jvmArgs : 
 
